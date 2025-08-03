@@ -1,1 +1,2 @@
 done simple text file
+hi bro this was done using git bash to github repo
